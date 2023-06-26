@@ -5,6 +5,9 @@
 
 - 🔭 I’m currently working on [my website](https://skydonline.github.io){:target="_blank" rel="noopener noreferrer"}
 
+- <a href="https://skydonline.github.io" target="_blank">LinkedIn</a>
+
+
 - 🌱 I’m currently learning: **C, Python, JavaScript, HTML, CSS**
 
 - 📫 How to reach me: **sky.deng.online@outlook.com**
