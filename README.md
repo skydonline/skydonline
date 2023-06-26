@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on <a href="https://skydonline.github.io" target="_blank">my website</a>
 
-- 🌱 I’m currently learning **C, Python, JavaScript, HTML, CSS**
+- 🌱 I’m currently learning: **C, Python, JavaScript, HTML, CSS**
 
-- 📫 How to reach me **sky.deng.online@outlook.com**
+- 📫 How to reach me: **sky.deng.online@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
