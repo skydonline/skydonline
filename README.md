@@ -3,10 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skydonline&label=Profile%20views&color=0e75b6&style=flat" alt="skydonline" /> </p>
 
-- 🔭 I’m currently working on [my website](https://skydonline.github.io){:target="_blank" rel="noopener noreferrer"}
-
-- <a href="https://skydonline.github.io" target="_blank">LinkedIn</a>
-
+- 🔭 I’m currently working on [my website](https://skydonline.github.io)
 
 - 🌱 I’m currently learning: **C, Python, JavaScript, HTML, CSS**
 
